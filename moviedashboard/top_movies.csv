@@ -5,19 +5,19 @@
 3,Interstellar,Christopher Nolan,99.0,8
 4,2001: A Space Odyssey,Stanley Kubrick,97.5,2
 5,The Lord of the Rings: The Two Towers,Peter Jackson,97.2,4
-6,Kill Bill: Vol. 1,Quentin Tarantino,97.0,3
-7,The Hateful Eight,Quentin Tarantino,97.0,1
+6,The Hateful Eight,Quentin Tarantino,97.0,1
+7,Kill Bill: Vol. 1,Quentin Tarantino,97.0,3
 8,Fight Club,David Fincher,96.7,3
 9,The Dark Knight,Christopher Nolan,96.5,2
 10,Back to the Future,Robert Zemeckis,96.0,1
 11,The Lord of the Rings: The Return of the King,Peter Jackson,95.8,4
 12,Pulp Fiction,Quentin Tarantino,95.5,2
 13,The Big Short,Adam McKay,95.2,5
-14,Aliens,James Cameron,95.0,1
-15,Inglourious Basterds,Quentin Tarantino,95.0,2
-16,Pappa ante portas,Loriot,95.0,1
-17,Mulholland Dr.,David Lynch,95.0,1
-18,The Godfather,Francis Ford Coppola,95.0,1
+14,The Godfather,Francis Ford Coppola,95.0,1
+15,Mulholland Dr.,David Lynch,95.0,1
+16,Aliens,James Cameron,95.0,1
+17,Pappa ante portas,Loriot,95.0,1
+18,Inglourious Basterds,Quentin Tarantino,95.0,2
 19,The Shawshank Redemption,Frank Darabont,94.5,2
 20,Blade Runner 2049,Denis Villeneuve,94.3,3
 21,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,94.0,5
@@ -26,26 +26,26 @@
 24,Inception,Christopher Nolan,93.5,4
 25,Back to the Future Part III,Robert Zemeckis,93.5,2
 26,Capernaum,Nadine Labaki,93.3,3
-27,Jurassic Park,Steven Spielberg,93.0,1
-28,Alien,Ridley Scott,93.0,2
-29,The Truman Show,Peter Weir,93.0,1
-30,The Host,Bong Joon-Ho,93.0,4
+27,The Truman Show,Peter Weir,93.0,1
+28,Jurassic Park,Steven Spielberg,93.0,1
+29,The Host,Bong Joon-Ho,93.0,4
+30,Alien,Ridley Scott,93.0,2
 31,The Big Lebowski,Coen Brueder,92.7,3
 32,Avengers: Infinity War,Joe Russo,92.5,2
 33,Apocalypse Now,Francis Ford Coppola,92.3,3
-34,Casablanca,Michael Curtiz,92.0,1
-35,The Godfather: Part II,Francis Ford Coppola,92.0,1
-36,The Disaster Artist,James Franco,92.0,1
-37,Detroit,Kathryn Bigelow,92.0,1
+34,The Godfather: Part II,Francis Ford Coppola,92.0,1
+35,The Disaster Artist,James Franco,92.0,1
+36,Detroit,Kathryn Bigelow,92.0,1
+37,Casablanca,Michael Curtiz,92.0,1
 38,Alien 3,David Fincher,91.0,1
 39,Loving Vincent,"Dorota Kobiela, Hugh Welchman",90.5,2
 40,The Florida Project,Sean Baker,90.5,2
-41,Tropa de Elite,José Padilha,90.0,1
+41,Once upon a Time in Hollywood,Quentin Tarantino,90.0,3
 42,Back to the Future Part II,Robert Zemeckis,90.0,1
-43,A Beautiful Mind,Ron Howard,90.0,1
-44,The Game,David Fincher,90.0,1
-45,Donnie Darko,Richard Kelly,90.0,2
-46,Children of Men,Alfonso Cuarón,90.0,1
-47,Requiem for a Dream,Darren Aronofsky,90.0,1
-48,Once upon a Time in Hollywood,Quentin Tarantino,90.0,3
+43,Requiem for a Dream,Darren Aronofsky,90.0,1
+44,Tropa de Elite,José Padilha,90.0,1
+45,The Game,David Fincher,90.0,1
+46,A Beautiful Mind,Ron Howard,90.0,1
+47,Children of Men,Alfonso Cuarón,90.0,1
+48,Donnie Darko,Richard Kelly,90.0,2
 49,Avatar,James Cameron,89.6,5
