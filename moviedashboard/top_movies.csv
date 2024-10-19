@@ -1,6 +1,6 @@
 ,movie,director,evaluation,views
-0,Hanami,Dorris Doerie,100.0,1
-1,Matrix,"Lana Wachowski, Lilly Wachowski",100.0,2
+0,Matrix,"Lana Wachowski, Lilly Wachowski",100.0,2
+1,Hanami,Dorris Doerie,100.0,1
 2,Magnolia,Paul Thomas Anderson,99.8,5
 3,Interstellar,Christopher Nolan,99.1,9
 4,The Lord of the Rings: The Two Towers,Peter Jackson,97.2,4
@@ -12,10 +12,10 @@
 10,The Lord of the Rings: The Return of the King,Peter Jackson,95.8,4
 11,The Big Short,Adam McKay,95.2,6
 12,Pappa ante portas,Loriot,95.0,2
-13,Inglourious Basterds,Quentin Tarantino,95.0,2
-14,The Godfather,Francis Ford Coppola,95.0,1
-15,Aliens,James Cameron,95.0,1
-16,Mulholland Dr.,David Lynch,95.0,1
+13,Aliens,James Cameron,95.0,1
+14,Inglourious Basterds,Quentin Tarantino,95.0,2
+15,Mulholland Dr.,David Lynch,95.0,1
+16,The Godfather,Francis Ford Coppola,95.0,1
 17,The Shawshank Redemption,Frank Darabont,94.5,2
 18,Blade Runner 2049,Denis Villeneuve,94.3,3
 19,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,94.0,5
@@ -27,25 +27,25 @@
 25,Pulp Fiction,Quentin Tarantino,93.3,3
 26,Capernaum,Nadine Labaki,93.3,3
 27,The Truman Show,Peter Weir,93.0,1
-28,The Host,Bong Joon-Ho,93.0,4
-29,Alien,Ridley Scott,93.0,2
+28,Alien,Ridley Scott,93.0,2
+29,The Host,Bong Joon-Ho,93.0,4
 30,Jurassic Park,Steven Spielberg,93.0,1
 31,The Big Lebowski,Coen Brueder,92.7,3
 32,Avengers: Infinity War,Joe Russo,92.5,2
 33,Apocalypse Now,Francis Ford Coppola,92.3,3
-34,Detroit,Kathryn Bigelow,92.0,1
-35,Casablanca,Michael Curtiz,92.0,1
-36,The Godfather: Part II,Francis Ford Coppola,92.0,1
-37,The Disaster Artist,James Franco,92.0,1
+34,The Godfather: Part II,Francis Ford Coppola,92.0,1
+35,Detroit,Kathryn Bigelow,92.0,1
+36,The Disaster Artist,James Franco,92.0,1
+37,Casablanca,Michael Curtiz,92.0,1
 38,Alien 3,David Fincher,91.0,1
-39,The Florida Project,Sean Baker,90.5,2
+39,The Shining,Stanley Kubrick,91.0,3
 40,Loving Vincent,"Dorota Kobiela, Hugh Welchman",90.5,2
 41,Dune,Denis Villeneuve,90.5,4
-42,Back to the Future Part II,Robert Zemeckis,90.0,1
+42,The Florida Project,Sean Baker,90.5,2
 43,Requiem for a Dream,Darren Aronofsky,90.0,1
-44,A Beautiful Mind,Ron Howard,90.0,1
-45,Donnie Darko,Richard Kelly,90.0,2
-46,Once upon a Time in Hollywood,Quentin Tarantino,90.0,3
-47,Tropa de Elite,José Padilha,90.0,1
-48,The Game,David Fincher,90.0,1
-49,Children of Men,Alfonso Cuarón,90.0,1
+44,Children of Men,Alfonso Cuarón,90.0,1
+45,Tropa de Elite,José Padilha,90.0,1
+46,The Game,David Fincher,90.0,1
+47,A Beautiful Mind,Ron Howard,90.0,1
+48,Once upon a Time in Hollywood,Quentin Tarantino,90.0,3
+49,Donnie Darko,Richard Kelly,90.0,2
